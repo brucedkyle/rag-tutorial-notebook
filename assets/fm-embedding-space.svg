@@ -1,0 +1,84 @@
+<svg width="672" height="449" viewBox="0 0 672 449" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="672" height="449" fill="white"/>
+<g opacity="0.5">
+<rect width="82" height="147" transform="matrix(-4.37114e-08 -1 -1 4.37114e-08 504 180)" fill="white" fill-opacity="0.01" style="mix-blend-mode:multiply"/>
+<rect width="82" height="147" transform="matrix(-4.37114e-08 -1 -1 4.37114e-08 504 180)" fill="white" fill-opacity="0.01" style="mix-blend-mode:multiply"/>
+<path d="M504 98L504 172C504 176.418 500.418 180 496 180L357 180" stroke="#0F62FE"/>
+</g>
+<g opacity="0.5">
+<rect width="87" height="57" transform="matrix(1 0 0 -1 276 377)" fill="white" fill-opacity="0.01" style="mix-blend-mode:multiply"/>
+<rect width="87" height="57" transform="matrix(1 0 0 -1 276 377)" fill="white" fill-opacity="0.01" style="mix-blend-mode:multiply"/>
+<path d="M363 377H284C279.582 377 276 373.418 276 369V320" stroke="#0F62FE"/>
+</g>
+<g opacity="0.5">
+<rect width="120" height="79" transform="matrix(1 0 0 -1 144 233)" fill="white" fill-opacity="0.01" style="mix-blend-mode:multiply"/>
+<rect width="120" height="79" transform="matrix(1 0 0 -1 144 233)" fill="white" fill-opacity="0.01" style="mix-blend-mode:multiply"/>
+<path d="M264 233L152 233C147.582 233 144 229.418 144 225V154" stroke="#0F62FE"/>
+</g>
+<path d="M48.5 97.5H280C284.142 97.5 287.5 100.858 287.5 105V155C287.5 159.142 284.142 162.5 280 162.5H48.5V97.5Z" fill="white" fill-opacity="0.01" style="mix-blend-mode:multiply"/>
+<path d="M48.5 97.5H280C284.142 97.5 287.5 100.858 287.5 105V155C287.5 159.142 284.142 162.5 280 162.5H48.5V97.5Z" stroke="#0F62FE"/>
+<path d="M49 98H280C283.866 98 287 101.134 287 105V155C287 158.866 283.866 162 280 162H49V98Z" fill="white"/>
+<g clip-path="url(#clip0_1947_36784)">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="14" font-weight="bold" letter-spacing="0.16px"><tspan x="64" y="116.854">Jan bought a painting&#x2028;</tspan><tspan x="64" y="134.854">of dogs playing cards</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Sans" font-size="14" letter-spacing="0.16px"><tspan x="64" y="153.25">[0.021, 0.035, 0.042]</tspan></text>
+<line x1="50" y1="97" x2="50" y2="163" stroke="#0F62FE" stroke-width="4"/>
+</g>
+<path d="M384.5 49.5H616C620.142 49.5 623.5 52.8579 623.5 57V89C623.5 93.1421 620.142 96.5 616 96.5H384.5V49.5Z" fill="white" fill-opacity="0.01" style="mix-blend-mode:multiply"/>
+<path d="M384.5 49.5H616C620.142 49.5 623.5 52.8579 623.5 57V89C623.5 93.1421 620.142 96.5 616 96.5H384.5V49.5Z" stroke="#0F62FE"/>
+<path d="M385 50H616C619.866 50 623 53.134 623 57V89C623 92.866 619.866 96 616 96H385V50Z" fill="white"/>
+<g clip-path="url(#clip1_1947_36784)">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="14" font-weight="bold" letter-spacing="0.16px"><tspan x="400" y="68.8535">I took my dogs for a walk</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Sans" font-size="14" letter-spacing="0.16px"><tspan x="400" y="87.25">[0.037, 0.009, 0.031]</tspan></text>
+<line x1="386" y1="49" x2="386" y2="97" stroke="#0F62FE" stroke-width="4"/>
+</g>
+<path d="M323.5 344.5H555C559.142 344.5 562.5 347.858 562.5 352V402C562.5 406.142 559.142 409.5 555 409.5H323.5V344.5Z" fill="white" fill-opacity="0.01" style="mix-blend-mode:multiply"/>
+<path d="M323.5 344.5H555C559.142 344.5 562.5 347.858 562.5 352V402C562.5 406.142 559.142 409.5 555 409.5H323.5V344.5Z" stroke="#0F62FE"/>
+<path d="M324 345H555C558.866 345 562 348.134 562 352V402C562 405.866 558.866 409 555 409H324V345Z" fill="white"/>
+<g clip-path="url(#clip2_1947_36784)">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="14" font-weight="bold" letter-spacing="0.16px"><tspan x="339" y="363.854">The Degas reproduction is </tspan><tspan x="339" y="381.854">hanging in the den</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Sans" font-size="14" letter-spacing="0.16px"><tspan x="339" y="400.25">[-0.029, 0.047, 0.056]</tspan></text>
+<line x1="325" y1="344" x2="325" y2="410" stroke="#0F62FE" stroke-width="4"/>
+</g>
+<line x1="271.339" y1="232.973" x2="354.73" y2="179.579" stroke="#A56EFF" stroke-dasharray="4 4"/>
+<line x1="355.435" y1="180.246" x2="276.435" y2="320.246" stroke="#A56EFF" stroke-dasharray="4 4"/>
+<line x1="272.108" y1="233.369" x2="276.499" y2="319.975" stroke="#A56EFF" stroke-dasharray="4 4"/>
+<circle cx="276.038" cy="320.038" r="7.5" transform="rotate(32.3156 276.038 320.038)" fill="#E4D1FE" stroke="#8A3FFC"/>
+<circle cx="271.609" cy="233.394" r="7.5" transform="rotate(32.3156 271.609 233.394)" fill="#E4D1FE" stroke="#8A3FFC"/>
+<circle cx="355.038" cy="180.038" r="7.5" transform="rotate(32.3156 355.038 180.038)" fill="#E4D1FE" stroke="#8A3FFC"/>
+<rect width="128.552" height="12.911" transform="matrix(-0.707107 0.707107 0.707107 0.707107 307.9 244)" fill="white" fill-opacity="0.01" style="mix-blend-mode:multiply"/>
+<g clip-path="url(#clip3_1947_36784)">
+<rect width="121.552" height="0" transform="matrix(-0.707107 0.707107 0.707107 0.707107 312.465 248.565)" fill="white" fill-opacity="0.01" style="mix-blend-mode:multiply"/>
+<path d="M312.465 248.565L226.514 334.515" stroke="black" stroke-width="2"/>
+</g>
+<rect width="8" height="8" transform="matrix(-0.707107 0.707107 0.707107 0.707107 224.393 330.98)" fill="white" fill-opacity="0.01" style="mix-blend-mode:multiply"/>
+<path d="M224.393 330.98L221.565 339.465L230.05 336.636L224.393 330.98Z" fill="black"/>
+<rect width="168" height="8" transform="translate(312 245)" fill="white" fill-opacity="0.01" style="mix-blend-mode:multiply"/>
+<rect width="161" height="0" transform="translate(312 249)" fill="white" fill-opacity="0.01" style="mix-blend-mode:multiply"/>
+<path d="M312 249H473" stroke="black" stroke-width="2"/>
+<rect width="8" height="8" transform="translate(472 245)" fill="white" fill-opacity="0.01" style="mix-blend-mode:multiply"/>
+<path d="M472 245L480 249L472 253V245Z" fill="black"/>
+<rect width="168" height="8" transform="translate(316 81) rotate(90)" fill="white" fill-opacity="0.01" style="mix-blend-mode:multiply"/>
+<g clip-path="url(#clip4_1947_36784)">
+<rect width="161" height="0" transform="translate(312 88) rotate(90)" fill="white" fill-opacity="0.01" style="mix-blend-mode:multiply"/>
+<path d="M312 88L312 249" stroke="black" stroke-width="2"/>
+</g>
+<rect width="8" height="8" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 316 89)" fill="white" fill-opacity="0.01" style="mix-blend-mode:multiply"/>
+<path d="M316 89L312 81L308 89L316 89Z" fill="black"/>
+<defs>
+<clipPath id="clip0_1947_36784">
+<rect width="240" height="66" fill="white" transform="translate(48 97)"/>
+</clipPath>
+<clipPath id="clip1_1947_36784">
+<rect width="240" height="48" fill="white" transform="translate(384 49)"/>
+</clipPath>
+<clipPath id="clip2_1947_36784">
+<rect width="240" height="66" fill="white" transform="translate(323 344)"/>
+</clipPath>
+<clipPath id="clip3_1947_36784">
+<rect width="121.552" height="8" fill="white" transform="matrix(-0.707107 0.707107 0.707107 0.707107 309.637 245.736)"/>
+</clipPath>
+<clipPath id="clip4_1947_36784">
+<rect width="161" height="8" fill="white" transform="translate(316 88) rotate(90)"/>
+</clipPath>
+</defs>
+</svg>
