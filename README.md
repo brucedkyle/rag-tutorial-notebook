@@ -21,7 +21,7 @@ Notebooks are stand-alone, meaning you can run them locally or in Colab. [requir
 
 ## Presentation
 
-- PowerPoint [Intro to RAG.with Demo.pptx](./presentation/Intro to RAG.with Demo.pptx)
+- PowerPoint [Intro to RAG.with Demo.pptx]('./presentation/Intro to RAG.with Demo.pptx')
 
 ## Prerequisites
 
